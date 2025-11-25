@@ -45,8 +45,8 @@ pip install 'pillow<7.0.0'
 unset INSTALL_DIR
 
 #Download
-Model | Backbone | AP50 | AP (fast) | AP (med) | AP (slow) | Link
-:---: | :---: | :---: | :---: | :---: | :---: |:---:
+Model | Backbone | Link
+:---: | :---: | :---: 
 single frame baseline | ResNet-101 | https://drive.google.com/file/d/1W17f9GC60rHU47lUeOEfU--Ra-LTw3Tq/view?usp=sharing
 **MEGA** | ResNet-101 | https://drive.google.com/file/d/1ZnAdFafF1vW9Lnpw-RPF1AD_csw61lBY/view?usp=sharing
 
